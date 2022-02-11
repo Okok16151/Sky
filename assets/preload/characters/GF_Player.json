@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "GF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				13
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "GF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "GF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				4
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				18
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				24
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				21
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GF Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_Player",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		30,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
